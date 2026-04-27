@@ -25,4 +25,4 @@ Foi entregue a documentação da febic. Entregue também a lista do trello final
 
 ### 27/04
 
-Foi criado um github do projeto com integração ao Obsidian, e posteriormente será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
+Foi criado um github do projeto com integração ao Obsidian, que posteriormente também será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
