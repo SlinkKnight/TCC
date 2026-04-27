@@ -17,12 +17,12 @@ Passamos a lista de afazeres e os passos seguintes do projeto para o Trello (pro
 
 ### 20/04/26
 
-Terminado o trello do projeto, considerando data, tags, sub-checklists. A entrega disso está planejada para 24/04. Foi tambem finalizada a inscrição da febic visando os campos requisitados pelo professor orientador (Botar campos aqui, tá no drive).
+Terminado o trello do projeto, considerando data, tags, sub-checklists. A entrega disso está planejada para 24/04. Foi tambem finalizada a inscrição da febic visando os campos requisitados pelo professor orientador (Problema, justificativa, hipótese, objetivo geral, objetivos específicos, Metodologia, Fundamentação teórica, Resultados alcançados e três principais refêrencias).
 
 ### 24/04/26
 
-Entregue a documentação da febic. entregue tambem a lista do trello finalizada dia 20. Planejamento do fluxograma e diagrama.
+Foi entregue a documentação da febic. Entregue também a lista do trello finalizada dia 20. Começamos o planejamento do fluxograma e diagrama do projeto, visando estar pronto até a pré-banca.
 
-### 25/04
+### 27/04
 
-Fizemos githubcm
+Foi criado um github do projeto com integração ao Obsidian, e posteriormente será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
