@@ -13,7 +13,7 @@ Foi discutido com o orientador Tiago, os futuros passos no que se diz respeito a
 Foi feita a entrevista presencial com o senhor Sandro Seixas, que possui 15cm dos braços, a avaliação do protótipo foi positiva e ele se acostumou rapidamente. (enfatizar respostas do questionário etc.)
 ### 13/04/26
 
-Foi criado o Trello do projeto, que consta as informações discutidas no dia 27/03. Prazos finais também foram adicionados
+Passamos a lista de afazeres e os passos seguintes do projeto para o Trello (programa de organização de projetos), que consta das informações discutidas no dia 27/03, organizando em áreas, tarefas e subtarefas. Também alteramos os prazos finais.
 
 ### 20/04/26
 
@@ -25,4 +25,4 @@ Entregue a documentação da febic. entregue tambem a lista do trello finalizada
 
 ### 25/04
 
-Fizemos github
+Fizemos githubcm
