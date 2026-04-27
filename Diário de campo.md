@@ -23,6 +23,6 @@ Terminado o trello do projeto, considerando data, tags, sub-checklists. A entreg
 
 Foi entregue a documentação da febic. Entregue também a lista do trello finalizada dia 20. Começamos o planejamento do fluxograma e diagrama do projeto, visando estar pronto até a pré-banca.
 
-### 27/04
+### 27/04/26
 
 Foi criado um github do projeto com integração ao Obsidian, que posteriormente também será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
