@@ -22,3 +22,7 @@ Terminado o trello do projeto, considerando data, tags, sub-checklists. A entreg
 ### 24/04/26
 
 Entregue a documentação da febic. entregue tambem a lista do trello finalizada dia 20. Planejamento do fluxograma e diagrama.
+
+### 25/04
+
+Fizemos github
