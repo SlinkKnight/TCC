@@ -26,3 +26,7 @@ Foi entregue a documentação da febic. Entregue também a lista do trello final
 ### 27/04/26
 
 Foi criado um github do projeto com integração ao Obsidian, que posteriormente também será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
+
+### 08/05/26
+
+Hoje chegamos mais perto de concluir as metas estabelecidas no trello do projeto, sendo elas: Aprender funcionamentos internos do ESP32, BLE; Aprender o funcionamento do protocolo de comunicação I2C ou equivalente; aprender funcionamentos internos do sensor giroscópico; Escolher o sensor giroscópio visando integralidade com o restante do projeto. Estudar o filtro de Kalman. Se espera completar esta ultima meta até semana que vem, tendo em vista também o prazo final de 22/05. Também foi iniciado os slides da pré banca.
