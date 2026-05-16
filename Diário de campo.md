@@ -35,4 +35,4 @@ Hoje chegamos mais perto de concluir as metas estabelecidas no trello do projeto
 Entendemos melhor o funcionamento do filtro de Kalman e testamos algumas de suas formas de aplicação, utilizando valores práticos captados pelos sensores usados no protótipo atual. Também iniciamos a confecção do diagrama do protótipo e do fluxograma do código do nosso projeto, conforme solicitado em aula. Além disso, discutimos sobre ampliar o projeto utilizando ambos os pés para o controle do cursor adicionando um sensor óptico ao projeto.
 
 ## 15/05/26
-Começamos a procurar sensores ópticos aplicáveis no projeto, também pesquisamos como o sensor se comunicaria com o ESP32. Terminamos o diagrama do protótipo, já levando em conta o dispositivo nos 2 pés, e também o fluxograma do código atual.
+Começamos a procurar sensores ópticos aplicáveis ao projeto e também pesquisamos como o sensor se comunicaria com o ESP32. Finalizamos o diagrama do protótipo, já levando em consideração o dispositivo nos dois pés, além do fluxograma do código atual.
