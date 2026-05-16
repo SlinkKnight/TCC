@@ -30,3 +30,8 @@ Foi criado um github do projeto com integração ao Obsidian, que posteriormente
 ### 08/05/26
 
 Hoje chegamos mais perto de concluir as metas estabelecidas no trello do projeto, sendo elas: Aprender funcionamentos internos do ESP32, BLE; Aprender o funcionamento do protocolo de comunicação I2C ou equivalente; aprender funcionamentos internos do sensor giroscópico; Escolher o sensor giroscópio visando integralidade com o restante do projeto. Estudar o filtro de Kalman. Se espera completar esta ultima meta até semana que vem, tendo em vista também o prazo final de 22/05. Também foi iniciado os slides da pré banca.
+
+## 12/05/26
+Entendemos melhor o funcionamento do filtro de Kalman e testamos algumas de suas formas de aplicação, utilizando valores práticos captados pelos sensores usados no protótipo atual. Também iniciamos a confecção do diagrama do protótipo e do fluxograma do código do nosso projeto, conforme solicitado em aula.
+
+## 15/05/26
