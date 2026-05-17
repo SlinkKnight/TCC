@@ -25,14 +25,21 @@ Foi entregue a documentação da febic. Entregue também a lista do trello final
 
 ### 27/04/26
 
-Foi criado um github do projeto com integração ao Obsidian, que posteriormente também será ligado ao Trello, visando o desenvolvimento por controle de versão do código.
+Foi criado um github do projeto com integração ao Obsidian, que posteriormente também será ligado ao Trello, visando o desenvolvimento por controle de versão do código. Além disso, foi discutida as incrições da FEBIC, Feira Brasileira de Iniciação Cientifica.
 
 ### 08/05/26
 
 Hoje chegamos mais perto de concluir as metas estabelecidas no trello do projeto, sendo elas: Aprender funcionamentos internos do ESP32, BLE; Aprender o funcionamento do protocolo de comunicação I2C ou equivalente; aprender funcionamentos internos do sensor giroscópico; Escolher o sensor giroscópio visando integralidade com o restante do projeto. Estudar o filtro de Kalman. Se espera completar esta ultima meta até semana que vem, tendo em vista também o prazo final de 22/05. Também foi iniciado os slides da pré banca.
 
 ### 12/05/26
-Entendemos melhor o funcionamento do filtro de Kalman e testamos algumas de suas formas de aplicação, utilizando valores práticos captados pelos sensores usados no protótipo atual. Também iniciamos a confecção do diagrama do protótipo e do fluxograma do código do nosso projeto, conforme solicitado em aula. Além disso, discutimos sobre ampliar o projeto utilizando ambos os pés para o controle do cursor adicionando um sensor óptico ao projeto.
+
+Entendemos melhor o funcionamento do filtro de Kalman e fizemos alguns testes práticos, utilizando valores práticos captados pelos sensores usados no protótipo atual. Também iniciamos a confecção do diagrama do protótipo e do fluxograma do código do nosso projeto, conforme solicitado em aula. Além disso, discutimos sobre ampliar o projeto utilizando ambos os pés para o controle do cursor adicionando um sensor óptico ao projeto, que será conectado via SPI. Isso possibilita com que o YAW seja mais responsivo e não flutue com o tempo, como foi discutido na entrevista física. Portanto, utilizaremos o filtro de kalman apenas no PITCH.
+
+### 13/05/26
+
+Hoje fizemos a engenharia reversa do protocolo I2c, tendo em vista o sensor Tof e o giroscópio. Conversamos com o orientador sobre a aplicação prática do filtro de kalman, além da criação de um gravador, que pega dados dos sensores e os coloca em um arquivo .csv, facilitando o teste de outros modelos de filtro sem o protótipo físico (em tempo real).
+Estudamos a possibilidade de remover completamente o ROLL, já que agora o projeto pretende comunicar dois pés diferentes para as duas funções.
 
 ### 15/05/26
-Começamos a procurar sensores ópticos aplicáveis ao projeto e também pesquisamos como o sensor poderia se comunicar com o ESP32. Finalizamos o diagrama do protótipo, já levando em consideração o dispositivo nos dois pés, além do fluxograma do código atual.
+
+Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisamos sobre o protocolo SPI. Finalizamos o diagrama do protótipo e o fluxograma, já levando em consideração o dispositivo nos dois pés. Além disso, terminamos a engenharia reversa do protocolo de comunicação, possibilitando agora a criação de uma função externa que comunica diretamente aos registradores dos devidos sensores. Pensamos também na comunicação entre os dois lados do protótipo, decidimos estudar a opção do ESP-NOW, que provavelmente resolve nossos problemas.
