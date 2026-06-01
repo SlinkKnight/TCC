@@ -44,6 +44,6 @@ Estudamos a possibilidade de remover completamente o ROLL, já que agora o proje
 
 Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisamos sobre o protocolo SPI. Finalizamos o diagrama do protótipo e o fluxograma, já levando em consideração o dispositivo nos dois pés. Além disso, terminamos a engenharia reversa do protocolo de comunicação, possibilitando agora a criação de uma função externa que comunica diretamente aos registradores dos devidos sensores. Pensamos também na comunicação entre os dois lados do protótipo, decidimos estudar a opção do ESP-NOW, que provavelmente resolve nossos problemas.
 
-## 30/05/26
+## 31/05/26
 
-Fazemo a encristão pa mep
+Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), preenchendo os doccumentos necessários restantes, e gravamos um vídeo curto para a apresentação do nosso projeto que foi postado no Youtube, conforme solicitado pelo regulamento de inscrição da feira.
