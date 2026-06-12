@@ -47,3 +47,6 @@ Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisa
 ## 31/05/26
 
 Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), preenchendo os doccumentos necessários restantes, e gravamos um vídeo curto para a apresentação do nosso projeto que foi postado no Youtube, conforme solicitado pelo regulamento de inscrição da feira.
+
+## 11/06/26
+Hoje 
