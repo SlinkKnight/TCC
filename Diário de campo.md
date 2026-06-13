@@ -55,3 +55,7 @@ Hoje foram preenchidos e assinados os documentos de autorização necessários p
 ## 12/06/26
 
 Hoje concluímos a elaboração do roteiro de apresentação do projeto e realizamos a gravação das diferentes partes do vídeo, divididas em introdução, problema, justificativa, metodologia e fase atual do projeto. Posteriormente, essas gravações serão reunidas e ajustadas por meio de edição para compor a versão final do vídeo.
+
+## 13/06/26
+
+Hoje iniciamos a criação dos slides para a pré-banca do projeto, com o objetivo de concluí-los e entregá-los até o dia 19. Além disso, concluímos a edição do vídeo de apresentação, que será enviado ao professor orientador.
