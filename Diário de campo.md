@@ -49,6 +49,7 @@ Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisa
 Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), preenchendo os doccumentos necessários restantes, e gravamos um vídeo curto para a apresentação do nosso projeto que foi postado no Youtube, conforme solicitado pelo regulamento de inscrição da feira.
 
 ## 11/06/26
-Hoje foram preenchidos e  assinados os documentos de autorização, necessário para a inscrição da Febic.
+Hoje foram preenchidos e  assinados os documentos de autorização e começamos a criar um roteiro para o vídeos de apresentação do nosso projeto, necessário para a inscrição da Febic.
 
 ## 12/06/26
+Hoje terminamos de criar o roteiro de apresentação do projeto, e gravamos juntos as partes do vídeos divididas em introdução, problema, justificativa, metodologia e fase atual do projeto, que serão juntadas e ajustadas por edição posteriormente 
