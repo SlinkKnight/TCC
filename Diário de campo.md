@@ -49,4 +49,6 @@ Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisa
 Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), preenchendo os doccumentos necessários restantes, e gravamos um vídeo curto para a apresentação do nosso projeto que foi postado no Youtube, conforme solicitado pelo regulamento de inscrição da feira.
 
 ## 11/06/26
-Hoje foram assinados os documentos de autorização, necessário para a inscrição da Febic
+Hoje foram preenchidos e  assinados os documentos de autorização, necessário para a inscrição da Febic.
+
+## 12/06/26
