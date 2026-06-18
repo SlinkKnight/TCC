@@ -59,3 +59,7 @@ Hoje concluímos a elaboração do roteiro de apresentação do projeto e realiz
 ## 13/06/26
 
 Hoje iniciamos a criação dos slides para a pré-banca do projeto, com o objetivo de concluí-los e entregá-los até o dia 19. Além disso, concluímos a edição do vídeo de apresentação, que será enviado ao professor orientador.
+
+## 17/06/26
+
+Hoje comparecemos na escola no turno da noite para que o professor orientador explicasse o filtro de Kalman, para que posteriormente possamos aplicar da forma correta 
