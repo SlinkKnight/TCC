@@ -44,22 +44,34 @@ Estudamos a possibilidade de remover completamente o ROLL, já que agora o proje
 
 Começamos a procurar sensores ópticos aplicáveis ao projeto, também pesquisamos sobre o protocolo SPI. Finalizamos o diagrama do protótipo e o fluxograma, já levando em consideração o dispositivo nos dois pés. Além disso, terminamos a engenharia reversa do protocolo de comunicação, possibilitando agora a criação de uma função externa que comunica diretamente aos registradores dos devidos sensores. Pensamos também na comunicação entre os dois lados do protótipo, decidimos estudar a opção do ESP-NOW, que provavelmente resolve nossos problemas.
 
-## 31/05/26
+### 31/05/26
 
 Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), preenchendo os doccumentos necessários restantes, e gravamos um vídeo curto para a apresentação do nosso projeto que foi postado no Youtube, conforme solicitado pelo regulamento de inscrição da feira.
 
-## 11/06/26
+### 11/06/26
 
 Hoje foram preenchidos e assinados os documentos de autorização necessários para a inscrição na Febic. Além disso, iniciamos a elaboração do roteiro para o vídeo de apresentação do projeto, também exigido como parte do processo de inscrição na feira.
 
-## 12/06/26
+### 12/06/26
 
 Hoje concluímos a elaboração do roteiro de apresentação do projeto e realizamos a gravação das diferentes partes do vídeo, divididas em introdução, problema, justificativa, metodologia e fase atual do projeto. Posteriormente, essas gravações serão reunidas e ajustadas por meio de edição para compor a versão final do vídeo.
 
-## 13/06/26
+### 13/06/26
 
 Hoje iniciamos a criação dos slides para a pré-banca do projeto, com o objetivo de concluí-los e entregá-los até o dia 19. Além disso, concluímos a edição do vídeo de apresentação, que será enviado ao professor orientador.
 
-## 17/06/26
+### 14/06/26
+
+No dia de hoje pensamos sobre o desenvolvimento do protótipo, como por exemplo, em quais eixos de rotação deixaremos as ações de clique e movimentação. Junto com isso, também, ajeitamos as referências, fizemos renderizações e pensamos sobre o sistema magsafe. Arrumamos fluxogramas, digramas e discutimos a distribuição dos componentes na placa.
+
+### 16/06/26
+
+Conversamos hoje com o orientador Tiago sobre os slides que serão apresentados à banca semana que vem, ele nos deu feedback quantitativo sobre formatação e sequenciação da apresentação.
+### 17/06/26
 
 Hoje comparecemos na escola no turno da noite para que o professor orientador explicasse o filtro de Kalman, para que posteriormente possamos aplicar da forma correta 
+
+### 20/06/26
+
+Os slides da pré banca foram quase finalizados no dia de hoje, faltando apenas algumas imagens e referências
+# Deixar sempre ### (3) antes da data
