@@ -74,4 +74,7 @@ Hoje comparecemos na escola no turno da noite para que o professor orientador ex
 ### 20/06/26
 
 Os slides da pré banca foram quase finalizados no dia de hoje, faltando apenas algumas imagens e referências
+
+
+
 # Deixar sempre ### (3) antes da data
