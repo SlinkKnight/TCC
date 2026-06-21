@@ -69,7 +69,11 @@ No dia de hoje pensamos sobre o desenvolvimento do protótipo, como por exemplo,
 Conversamos hoje com o orientador Tiago sobre os slides que serão apresentados à banca semana que vem, ele nos deu feedback quantitativo sobre formatação e sequenciação da apresentação.
 ### 17/06/26
 
-Hoje comparecemos na escola no turno da noite para que o professor orientador explicasse o filtro de Kalman, para que posteriormente possamos aplicar da forma correta 
+Hoje comparecemos na escola no turno da noite para que o professor orientador explicasse o filtro de Kalman, para que posteriormente possamos aplicar da forma correta no código do nosso protótipo
+
+### 19/06/26
+
+Apresentamos ao professor orientador o que tinhamos feito nos slides para a pré-banca e ele nos deu instruções para reduzir, excluindo partes irrelevantes, e unindo em um slide só partes que poderiam ser resumidas a um só tópico
 
 ### 20/06/26
 
