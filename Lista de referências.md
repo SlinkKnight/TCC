@@ -16,5 +16,4 @@ GRIMBIXCODE. **GitHub - GrimbiXcode/VL53L0X-Register-Map: A crowd sourced extend
 
 **LEI BRASILEIRA DE INCLUSÃO LBI TEXTO INTEGRAL E FUNDAMENTOS LEGAIS DOS DIREITOS DAS PESSOAS COM DEFICIÊNCIA Estatuto da Pessoa com Deficiência**. [s.l: s.n.]. Disponível em: <https://www.gov.br/mdh/pt-br/navegue-por-temas/pessoa-com-deficiencia/publicacoes/dez-anos-da-lei-brasileira-de-inclusao-lbi-texto-na-integra/lei_brasileira_de_inclusao_digital__1_.pdf>.
 
-‌
-‌
+CAMPBELL, Scott. **Basics of the I2C communication protocol**. Disponível em: <https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/>. Acesso em: 29 jun. 2026.
