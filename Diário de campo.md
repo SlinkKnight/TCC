@@ -79,6 +79,7 @@ Apresentamos ao professor orientador o que tinhamos feito nos slides para a pré
 
 Os slides da pré banca foram quase finalizados no dia de hoje, faltando apenas algumas imagens e referências
 
+### Pré banca
 
 
 # Deixar sempre ### (3) antes da data
