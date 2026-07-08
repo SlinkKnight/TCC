@@ -50,4 +50,36 @@ Hoje concluimos a inscrição para a Mostra da Educação Profissional (MEP), pr
 
 ### 11/06/26
 
-Hoje foram assinados os documentos de autorização, necessário para a inscrição da Febic
+Hoje foram preenchidos e assinados os documentos de autorização necessários para a inscrição na Febic. Além disso, iniciamos a elaboração do roteiro para o vídeo de apresentação do projeto, também exigido como parte do processo de inscrição na feira.
+
+### 12/06/26
+
+Hoje concluímos a elaboração do roteiro de apresentação do projeto e realizamos a gravação das diferentes partes do vídeo, divididas em introdução, problema, justificativa, metodologia e fase atual do projeto. Posteriormente, essas gravações serão reunidas e ajustadas por meio de edição para compor a versão final do vídeo.
+
+### 13/06/26
+
+Hoje iniciamos a criação dos slides para a pré-banca do projeto, com o objetivo de concluí-los e entregá-los até o dia 19. Além disso, concluímos a edição do vídeo de apresentação, que será enviado ao professor orientador.
+
+### 14/06/26
+
+No dia de hoje pensamos sobre o desenvolvimento do protótipo, como por exemplo, em quais eixos de rotação deixaremos as ações de clique e movimentação. Junto com isso, também, ajeitamos as referências, fizemos renderizações e pensamos sobre o sistema magsafe. Arrumamos fluxogramas, digramas e discutimos a distribuição dos componentes na placa.
+
+### 16/06/26
+
+Conversamos hoje com o orientador Tiago sobre os slides que serão apresentados à banca semana que vem, ele nos deu feedback quantitativo sobre formatação e sequenciação da apresentação.
+### 17/06/26
+
+Hoje comparecemos na escola no turno da noite para que o professor orientador explicasse o filtro de Kalman, para que posteriormente possamos aplicar da forma correta no código do nosso protótipo
+
+### 19/06/26
+
+Apresentamos ao professor orientador o que tinhamos feito nos slides para a pré-banca e ele nos deu instruções para reduzir, excluindo partes irrelevantes, e unindo em um slide só partes que poderiam ser resumidas a um só tópico
+
+### 20/06/26
+
+Os slides da pré banca foram quase finalizados no dia de hoje, faltando apenas algumas imagens e referências
+
+### Pré banca
+
+
+# Deixar sempre ### (3) antes da data
