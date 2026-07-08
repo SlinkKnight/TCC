@@ -81,5 +81,7 @@ Os slides da pré banca foram quase finalizados no dia de hoje, faltando apenas 
 
 ### Pré banca
 
+Hoje recebemos o feedback da banca sobre o protótipo, cujo desenvolvimento está estagnado. Estudamos a opção de comprar um novo sensor que já implementa o filtro de kalman, chamado BNO055, outras opções serão estudadas.
+
 
 # Deixar sempre ### (3) antes da data
