@@ -22,7 +22,6 @@ import signal
 import sys
 import time
 
-import serial
 
 # ── Colunas esperadas ──────────────────────────────────────────────────────
 COLUNAS = [
