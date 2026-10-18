@@ -21,3 +21,4 @@ CAMPBELL, Scott. **Basics of the I2C communication protocol**. Disponível em: <
 ### 18/10
 
 https://www.scielo.br/j/rbort/a/y7ySJMGtC5tHSdCHD4fcgwH/?lang=pt
+https://www.scielo.br/j/anp/a/4jJJgpdkn3kqfYcxsrNvHZp/?lang=en
