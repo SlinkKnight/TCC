@@ -24,3 +24,6 @@ https://www.scielo.br/j/rbort/a/y7ySJMGtC5tHSdCHD4fcgwH/?lang=pt
 https://www.scielo.br/j/anp/a/4jJJgpdkn3kqfYcxsrNvHZp/?lang=en
 
 https://institutosantosdumont.org.br/wp-content/uploads/2023/05/UPDRS-MDS-PORTUGUES.pdf
+
+https://docs.sparkfun.com/SparkFun_VR_IMU_Breakout_BNO086_QWIIC/assets/component_documentation/BNO080_085-Datasheet_v1.16.pdf
+
