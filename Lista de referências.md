@@ -27,3 +27,4 @@ https://institutosantosdumont.org.br/wp-content/uploads/2023/05/UPDRS-MDS-PORTUG
 
 https://docs.sparkfun.com/SparkFun_VR_IMU_Breakout_BNO086_QWIIC/assets/component_documentation/BNO080_085-Datasheet_v1.16.pdf
 
+**Apostolico, A., et al. (1999).** The Development of the Optical Mouse. _Hewlett-Packard Journal_, 50(1), 1-8.
